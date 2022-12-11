@@ -104,7 +104,7 @@ kubectl create -f wp-service.yaml
 2. Wait for the workspace creation to complete
 3. Go to **Uptime checks** > **CREATE UPTIME CHECKS**
 4. Now enter the info as below:
-
+5.Run **kbectl get services** to ge the url
 <img width=600 src="https://github.com/DSC-SIES-GST/GCP-2022/blob/main/images/uptime.png" alt="Uptime check" />
 
 ### Task 9: Provide access for an additional engineer
