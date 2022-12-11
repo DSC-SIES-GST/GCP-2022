@@ -107,6 +107,8 @@ kubectl create -f wp-service.yaml
 
 <img width=600 src="https://github.com/DSC-SIES-GST/GCP-2022/blob/main/images/uptime.png" alt="Uptime check" />
 5.Run **kbectl get services** to ge the url
+
+
 ### Task 9: Provide access for an additional engineer
 
 1. Go to **IAM & Admin** > **ADD**
