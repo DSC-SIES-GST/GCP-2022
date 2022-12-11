@@ -75,7 +75,7 @@ gcloud container clusters get-credentials griffin-dev --zone us-east1-b
 * Run the following from the **Cloud Terminal**:
 
 ```yaml
-gsutil cp -r gs://cloud-training/gsp321/wp-k8s .
+gsutil cp -r gs://cloud-training/gsp321/wp-k8s ~/
 cd wp-k8s
 sed -i s/username_goes_here/wp_user/g wp-env.yaml
 sed -i s/password_goes_here/stormwind_rules/g wp-env.yaml
