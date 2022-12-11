@@ -5,6 +5,8 @@
 
 As soon as you sit down at your desk and open your new laptop you receive several requests from the Nucleus team. Read through each description, then create the resources.
 
+Change the following in the codes <INSTANCE NAME>, <LAB ZONE>, <LAB REGION>, <PORT>, <FIREWALL RULE>.
+
 ## Solving tasks
 
 ### Task 1: Create a project jumphost instance
