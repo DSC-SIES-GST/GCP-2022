@@ -32,7 +32,7 @@ Some Jooli Inc. standards you should follow:
 ### Task 2: Create a Pub/Sub topic
 
 1. Navigation menu > **Pub/Sub** > Topics
-2. Create Topic > **Name:** <Topic Name> > Create Topic
+2. Create Topic > **Name:** Topic Name > Create Topic
 
 ### Task 3: Create the thumbnail Cloud Function
 
@@ -40,7 +40,7 @@ Some Jooli Inc. standards you should follow:
 
 2. Use the following config:
 
-   **Name:** <Function Name>
+   **Name:** Function Name
    **Region:** us-east1
    **Trigger:** Cloud Storage
    **Event type:** Finalize/Create
